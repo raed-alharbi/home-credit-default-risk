@@ -3,9 +3,9 @@
 **Course:** AI331 – Machine Learning | **Section:** M11
 
 **Team:**
-- Raed Abdulsalam Al-Maghdoowi — 4403569
-- Youssef Hluil Al-Juhani — 4402962
-- Majed Mohammed Al-Harbi — 4403241
+- Raed Abdulsalam Al-Maghdoowi
+- Youssef Hluil Al-Juhani 
+- Majed Mohammed Al-Harbi 
 
 ## Overview
 
